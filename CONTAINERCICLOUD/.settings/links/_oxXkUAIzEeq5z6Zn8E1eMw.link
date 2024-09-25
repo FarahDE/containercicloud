@@ -1,0 +1,24 @@
+{
+  "itemId" : "_oxXkUAIzEeq5z6Zn8E1eMw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ZoIq0O3hEeawiph590D2RA",
+    "parameterList" : [ {
+      "id" : "_W00NsnsZEe-UQMimll-H7Q",
+      "name" : "input_file1"
+    }, {
+      "id" : "_W00Ns3sZEe-UQMimll-H7Q",
+      "name" : "localFolder"
+    } ]
+  }, {
+    "contextName" : "Local",
+    "repoId" : "_ZoIq0O3hEeawiph590D2RA",
+    "parameterList" : [ {
+      "id" : "_W00NsHsZEe-UQMimll-H7Q",
+      "name" : "input_file1"
+    }, {
+      "id" : "_W00NsXsZEe-UQMimll-H7Q",
+      "name" : "localFolder"
+    } ]
+  } ]
+}
